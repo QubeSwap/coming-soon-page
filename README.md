@@ -1,2 +1,4 @@
-# coming-soon-page
-QubeSwap | Coming Soon Page
+# QubeSwap | Dex
+
+QubeSwap | Trade - Earn - Win
+The New PancakeSwap of Cryptos
